@@ -1,1 +1,1 @@
-# The-Longest-Yeah-Boy-Generator
+#Yeah-Boy-Generator
